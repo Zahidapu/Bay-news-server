@@ -2,7 +2,7 @@
 # Project Name: BAY NEWS PHOTOGRAPHY SERVICE
 ## BAY NEWS PHOTOGRAPHY SERVICE is a photography services made up of professional photographers. News Photography service centered webapp is the place where you will get news services subscription and services
 
-
+## Live web-app is here ('https://bay-news-service.web.app')
 ## Developed by Jahid Alam Apu
 ## Features:
 1.Login with G-mail 
