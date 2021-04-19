@@ -13,6 +13,6 @@
 6.Card added for payment transactions
 7.Add admin data through dashboard which will pass from database
 8.Add services information and images through dashboard which will pass from database
-# complete-website-client-Zahidapu
+
 # complete-website-server-Zahidapu
 
